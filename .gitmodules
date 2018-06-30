@@ -1,0 +1,24 @@
+[submodule "pango"]
+	path = pango
+	url = git@github.com:joeferner/pango.git
+[submodule "pango-arm-gcc"]
+	path = pango-arm-gcc
+	url = git@github.com:joeferner/pango-arm-gcc.git
+[submodule "pango-components"]
+	path = pango-components
+	url = git@github.com:joeferner/pango-components.git
+[submodule "pango-examples"]
+	path = pango-examples
+	url = git@github.com:joeferner/pango-examples.git
+[submodule "pango-gcc"]
+	path = pango-gcc
+	url = git@github.com:joeferner/pango-gcc.git
+[submodule "pango-git-version"]
+	path = pango-git-version
+	url = git@github.com:joeferner/pango-git-version.git
+[submodule "pango-menuconfig"]
+	path = pango-menuconfig
+	url = git@github.com:joeferner/pango-menuconfig.git
+[submodule "pango-stm32cubemx"]
+	path = pango-stm32cubemx
+	url = git@github.com:joeferner/pango-stm32cubemx.git
