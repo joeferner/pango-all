@@ -22,3 +22,7 @@
 [submodule "pango-stm32cubemx"]
 	path = pango-stm32cubemx
 	url = git@github.com:joeferner/pango-stm32cubemx.git
+
+[submodule "pango-nanopb"]
+	path = pango-nanopb
+	url = git@github.com:joeferner/pango-nanopb.git
