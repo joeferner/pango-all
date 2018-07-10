@@ -26,3 +26,6 @@
 [submodule "pango-nanopb"]
 	path = pango-nanopb
 	url = git@github.com:joeferner/pango-nanopb.git
+[submodule "pango-serialport"]
+	path = pango-serialport
+	url = git@github.com:joeferner/pango-serialport.git
